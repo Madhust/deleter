@@ -1,0 +1,22 @@
+{
+    "name": "moddel",
+    "version": "0.0.1",
+    "author": {
+        "name": "Madhu Sudhanan P",
+        "email": "madhusudhananit@gmail.com",
+        "url":"https://essentialjavascript.wordpress.com/about/"
+    },
+    "description": "Node based directory removing tool",
+    "keywords": [
+        "delete", "remove"
+    ],
+    "bin":{
+        "deleter":"main.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Madhust/deleter"
+    },
+    "os":["win32", "win64"]
+
+}
